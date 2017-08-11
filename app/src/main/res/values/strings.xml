@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Retrofit2 and ORMLite</string>
+    <string name="best_price">Лучшая ставка :</string>
+    <string name="day_the_end">Дней до окончания :</string>
+</resources>
